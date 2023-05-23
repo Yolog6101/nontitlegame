@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 318
     height: 675
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -73,7 +73,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 79
+  controlID: 100
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -93,8 +93,8 @@ MonoBehaviour:
     y: 0
     width: 161
     height: 675
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -222,7 +222,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 80
+  controlID: 101
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 81
+  controlID: 102
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -329,10 +329,10 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 35}
-    m_SelectedIDs: 545a0000
-    m_LastClickedID: 23124
-    m_ExpandedIDs: 00000000325a000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 725b0000
+    m_LastClickedID: 23410
+    m_ExpandedIDs: 00000000505b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -451,7 +451,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 324
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -488,9 +488,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: c8eaffff
-      m_LastClickedID: -5432
-      m_ExpandedIDs: ceeaffff64f6ffff2ef9ffff38fbffff
+      m_SelectedIDs: 340a0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: a8f8ffff38fbffffb45a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -792,9 +792,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.018307839, y: 0.008095812, z: -0.00014747838, w: -0.99979967}
   m_Size:
-    m_Target: 5.278148
+    m_Target: 4.8995943
     speed: 2
-    m_Value: 5.278148
+    m_Value: 4.8995943
   m_Ortho:
     m_Target: 0
     speed: 2
